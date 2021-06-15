@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282987741238",
+    "firebase_url": "https://ml-kit-17ae4.firebaseio.com",
+    "project_id": "ml-kit-17ae4",
+    "storage_bucket": "ml-kit-17ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282987741238:android:5ea421627b6801bb4b5897",
+        "android_client_info": {
+          "package_name": "com.dts.blogsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282987741238-tu5fr5l47kq895bld3hrbl9fg1cffqf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgIHhCyeqfjfoc8nKFC2PxwN0xm-wu6oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282987741238-tu5fr5l47kq895bld3hrbl9fg1cffqf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
